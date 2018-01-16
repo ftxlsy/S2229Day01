@@ -1,0 +1,14 @@
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmLogin.resources
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmRegistered.resources
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\S2\深入.NET平台和C#编程\1.深入.NET框架\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

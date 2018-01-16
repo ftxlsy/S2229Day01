@@ -1,0 +1,9 @@
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\bin\Debug\Operation.exe.config
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.FrmOperation.resources
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.Properties.Resources.resources
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.csproj.GenerateResource.Cache
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\bin\Debug\Operation.exe
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\bin\Debug\Operation.pdb
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.exe
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Operation\Operation\obj\Debug\Operation.pdb

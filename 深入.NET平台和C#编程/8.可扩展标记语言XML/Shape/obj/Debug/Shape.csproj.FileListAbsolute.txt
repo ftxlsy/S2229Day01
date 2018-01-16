@@ -1,0 +1,2 @@
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Shape\bin\Debug\Shape.exe.config
+F:\S2\深入.NET平台和C#编程\8.可扩展标记语言XML\Shape\bin\Debug\Shape.exe.config

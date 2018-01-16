@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\bin\Debug\Text.exe.config
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\bin\Debug\Text.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\bin\Debug\Text.pdb
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\obj\Debug\Text.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Text\Text\obj\Debug\Text.pdb

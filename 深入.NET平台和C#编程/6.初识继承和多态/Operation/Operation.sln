@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation", "Operation\Operation.csproj", "{F73F61BE-9EE8-4D18-9BD2-F073CB558EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "..\ATM\ATM.csproj", "{34F28D8B-7009-46DF-AF52-A101ECD0EC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "..\Shape\Shape.csproj", "{B4253A42-4B11-401B-BB5D-E196962AB46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73F61BE-9EE8-4D18-9BD2-F073CB558EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73F61BE-9EE8-4D18-9BD2-F073CB558EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73F61BE-9EE8-4D18-9BD2-F073CB558EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73F61BE-9EE8-4D18-9BD2-F073CB558EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F28D8B-7009-46DF-AF52-A101ECD0EC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F28D8B-7009-46DF-AF52-A101ECD0EC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F28D8B-7009-46DF-AF52-A101ECD0EC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F28D8B-7009-46DF-AF52-A101ECD0EC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4253A42-4B11-401B-BB5D-E196962AB46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4253A42-4B11-401B-BB5D-E196962AB46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4253A42-4B11-401B-BB5D-E196962AB46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4253A42-4B11-401B-BB5D-E196962AB46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

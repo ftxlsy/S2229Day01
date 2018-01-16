@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\Car\Car\bin\Debug\Car.exe.config
+E:\bdqn\accp\note\S2\Car\Car\bin\Debug\Car.exe
+E:\bdqn\accp\note\S2\Car\Car\bin\Debug\Car.pdb
+E:\bdqn\accp\note\S2\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\Car\Car\obj\Debug\Car.exe
+E:\bdqn\accp\note\S2\Car\Car\obj\Debug\Car.pdb

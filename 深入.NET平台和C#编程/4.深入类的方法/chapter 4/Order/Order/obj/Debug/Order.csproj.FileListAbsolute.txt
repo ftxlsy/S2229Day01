@@ -1,0 +1,6 @@
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\bin\Debug\Order.exe.config
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\bin\Debug\Order.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\bin\Debug\Order.pdb
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\obj\Debug\Order.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Order\Order\obj\Debug\Order.pdb

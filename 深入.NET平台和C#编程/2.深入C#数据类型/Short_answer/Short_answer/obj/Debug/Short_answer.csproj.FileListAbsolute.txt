@@ -1,0 +1,6 @@
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\bin\Debug\Short_answer.exe.config
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\bin\Debug\Short_answer.exe
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\bin\Debug\Short_answer.pdb
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\obj\Debug\Short_answer.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\obj\Debug\Short_answer.exe
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Short_answer\Short_answer\obj\Debug\Short_answer.pdb

@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\Pay\Pay\bin\Debug\Pay.exe.config
+E:\bdqn\accp\note\S2\Pay\Pay\bin\Debug\Pay.exe
+E:\bdqn\accp\note\S2\Pay\Pay\bin\Debug\Pay.pdb
+E:\bdqn\accp\note\S2\Pay\Pay\obj\Debug\Pay.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\Pay\Pay\obj\Debug\Pay.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\Pay\Pay\obj\Debug\Pay.exe
+E:\bdqn\accp\note\S2\Pay\Pay\obj\Debug\Pay.pdb

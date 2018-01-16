@@ -1,0 +1,1 @@
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\Shape\bin\Debug\Shape.exe.config

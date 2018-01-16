@@ -1,0 +1,9 @@
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\bin\Debug\FrmOffice.exe.config
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.FrmOffice.resources
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.Properties.Resources.resources
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.csproj.GenerateResource.Cache
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\bin\Debug\FrmOffice.exe
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\bin\Debug\FrmOffice.pdb
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.exe
+F:\S2\深入.NET平台和C#编程\6.初识继承和多态\FrmOffice\obj\Debug\FrmOffice.pdb

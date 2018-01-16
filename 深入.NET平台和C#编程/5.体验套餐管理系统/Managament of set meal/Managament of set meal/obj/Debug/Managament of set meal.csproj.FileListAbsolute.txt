@@ -1,0 +1,9 @@
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\bin\Debug\Managament of set meal.exe.config
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament of set meal.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament_of_set_meal.FrmMain.resources
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament_of_set_meal.Properties.Resources.resources
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament of set meal.csproj.GenerateResource.Cache
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\bin\Debug\Managament of set meal.exe
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\bin\Debug\Managament of set meal.pdb
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament of set meal.exe
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\Managament of set meal\Managament of set meal\obj\Debug\Managament of set meal.pdb

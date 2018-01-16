@@ -1,0 +1,12 @@
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe.config
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.pdb
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csprojResolveAssemblyReference.cache
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.FrmMain.resources
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.Properties.Resources.resources
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csproj.GenerateResource.Cache
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.exe
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.pdb
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe.config
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.exe
+F:\S2\深入.NET平台和C#编程\5.体验套餐管理系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.pdb

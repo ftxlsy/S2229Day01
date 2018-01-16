@@ -1,0 +1,8 @@
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\bin\Debug\Operate1.exe.config
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\bin\Debug\Operate1.exe
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\bin\Debug\Operate1.pdb
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\obj\Debug\Operate1.csprojResolveAssemblyReference.cache
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\obj\Debug\Operate1.exe
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\obj\Debug\Operate1.pdb
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\obj\Debug\Operate1.FrmMain.resources
+F:\S2\深入.NET平台和C#编程\2.深入C#数据类型\Operate1\Operate1\obj\Debug\Operate1.csproj.GenerateResource.Cache

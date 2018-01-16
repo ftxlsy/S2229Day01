@@ -1,0 +1,15 @@
+F:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\bin\Debug\Operate.exe.config
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\bin\Debug\Operate.exe.config
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\bin\Debug\Operate.exe
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\bin\Debug\Operate.pdb
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.csprojResolveAssemblyReference.cache
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.FrmAdd.resources
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.FrmMain.resources
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.Properties.Resources.resources
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.csproj.GenerateResource.Cache
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.exe
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.pdb
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.DK.resources
+G:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.csproj.CoreCompileInputs.cache
+F:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.exe
+F:\S2\深入.NET平台和C#编程\3.使用集合组织相关数据\Operate\Operate\obj\Debug\Operate.pdb

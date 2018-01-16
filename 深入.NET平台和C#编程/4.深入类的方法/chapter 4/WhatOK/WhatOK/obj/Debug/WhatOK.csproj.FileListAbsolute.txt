@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\bin\Debug\WhatOK.exe.config
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\bin\Debug\WhatOK.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\bin\Debug\WhatOK.pdb
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\obj\Debug\WhatOK.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\obj\Debug\WhatOK.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\obj\Debug\WhatOK.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\WhatOK\WhatOK\obj\Debug\WhatOK.pdb

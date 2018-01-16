@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\bin\Debug\Ant.exe.config
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\bin\Debug\Ant.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\bin\Debug\Ant.pdb
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\obj\Debug\Ant.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\obj\Debug\Ant.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\obj\Debug\Ant.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Ant\Ant\obj\Debug\Ant.pdb

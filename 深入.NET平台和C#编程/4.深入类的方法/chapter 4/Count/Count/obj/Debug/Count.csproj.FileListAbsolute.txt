@@ -1,0 +1,7 @@
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\bin\Debug\Count.exe.config
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\bin\Debug\Count.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\bin\Debug\Count.pdb
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\obj\Debug\Count.csprojResolveAssemblyReference.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\obj\Debug\Count.csproj.CoreCompileInputs.cache
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\obj\Debug\Count.exe
+E:\bdqn\accp\note\S2\深入.NET平台和C#编程\chapter 4\Count\Count\obj\Debug\Count.pdb

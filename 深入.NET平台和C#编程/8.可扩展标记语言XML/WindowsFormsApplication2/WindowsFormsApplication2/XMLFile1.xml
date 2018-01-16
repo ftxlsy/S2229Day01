@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <book>
+    <bookid>1</bookid>
+    <bookName>设计模型</bookName>
+    <bookAutor>不知</bookAutor>
+  </book>
+  <book>
+    <bookid>2</bookid>
+    <bookName>算法</bookName>
+    <bookAutor>步子</bookAutor>
+  </book>
+  <book>
+    <bookid>3</bookid>
+    <bookName>白发魔女</bookName>
+    <bookAutor>不在</bookAutor>
+  </book>
+</Books>
